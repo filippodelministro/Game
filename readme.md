@@ -1,3 +1,3 @@
-## Just a try
+## Story Game
 
-Just a try to set my VS workspace
+Just a text game.
