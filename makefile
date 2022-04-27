@@ -1,7 +1,7 @@
-all: snake
+all: game
 
-snake: snake.o 
-	gcc -Wall snake.c -o snake 
+gam: game.o 
+	gcc -Wall game.c -o game 
   
 reset: 
-	rm *o snake 
+	rm *o game 
